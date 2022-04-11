@@ -1,0 +1,11 @@
+#	属性配置			
+#	Id		Name	Icon
+#	int		string	string
+#	配置编号	备注	属性名	图标
+	400001	移动力	MovePower	
+	400002	物理攻击力	PhysicPower	
+	400003	魔法攻击力	MagicPower	
+	400004	最小攻击范围	MinAttackRange	
+	400005	最大攻击范围	MaxAttackRange	
+	400006	生命值	StartHP	
+	400007	最大生命值	MaxHP	

@@ -1,0 +1,8 @@
+#	行为配置				
+#	Id		Name	Icon	DirectDo
+#	int		string	string	bool
+#	配置编号	备注	行为名	图标	只有一个行为时是否直接行动
+	500001	移动	Move	move_icon	true
+	500002	攻击	Attack	attack_icon	false
+	500003	待机	Rest	rest_icon	false
+	500004	招募	Recruit	recruit_icon	true

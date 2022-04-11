@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2523490022
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: def7d2f47af5cbee133930c729b75444
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9ecc2e8d717629781f019ff30323ba53
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Try2_fui.bytes
+- Assets/Resources/Try2_atlas0.png
+Dependencies: []

@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <ResourceCollection>
+    <Resources>
+      <Resource Name="Configs/BuildInfo" LoadType="0" Packed="False" />
+      <Resource Name="Configs/BuildSetttings" LoadType="0" Packed="False" />
+      <Resource Name="Configs/DataTableCodeTemplate" LoadType="0" Packed="False" />
+      <Resource Name="Configs/DefaultConfig" LoadType="0" Packed="False" />
+      <Resource Name="Configs/Dictionary" LoadType="0" Packed="False" />
+      <Resource Name="Configs/ResourceBuilder" LoadType="0" Packed="False" />
+      <Resource Name="Configs/ResourceCollection" LoadType="0" Packed="False" />
+      <Resource Name="Configs/ResourceEditor" LoadType="0" Packed="False" />
+      <Resource Name="Data/Entity/c_1_1" LoadType="0" Packed="False" />
+      <Resource Name="Data/Entity/e_1" LoadType="0" Packed="False" />
+      <Resource Name="Data/Entity/e_2" LoadType="0" Packed="False" />
+      <Resource Name="Data/Entity/e_3" LoadType="0" Packed="False" />
+      <Resource Name="Data/Entity/e_4" LoadType="0" Packed="False" />
+      <Resource Name="Data/Entity/Sprite" LoadType="0" Packed="False" />
+      <Resource Name="Data/Entity/Tile" LoadType="0" Packed="False" />
+      <Resource Name="Data/Item/Anim/selector_idle" LoadType="0" Packed="False" />
+      <Resource Name="Data/Item/attack_cursor" LoadType="0" Packed="False" />
+      <Resource Name="Data/Item/attack_range" LoadType="0" Packed="False" />
+      <Resource Name="Data/Item/castle_0" LoadType="0" Packed="False" />
+      <Resource Name="Data/Item/move_range" LoadType="0" Packed="False" />
+      <Resource Name="Data/Item/selector" LoadType="0" Packed="False" />
+      <Resource Name="Data/Map/Items" LoadType="0" Packed="False" />
+      <Resource Name="Data/Map/Map" LoadType="0" Packed="False" />
+      <Resource Name="Data/Package/ui" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_0" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_1" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_10" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_11" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_12" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_13" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_14" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_15" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_16" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_17" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_18" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_19" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_2" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_20" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_3" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_4" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_5" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_6" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_7" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_8" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_9" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_stone_0" LoadType="0" Packed="False" />
+      <Resource Name="Data/Tile/tile_tree_0" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/Action" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/Buff" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/Entity" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/Prop" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/Tile" LoadType="0" Packed="False" />
+      <Resource Name="UI/ActionItemUIForm" LoadType="0" Packed="False" />
+      <Resource Name="UI/AttackCursorUIForm" LoadType="0" Packed="False" />
+    </Resources>
+    <Assets>
+      <Asset Guid="1a6f358bcef870c46858612684b72c53" ResourceName="Data/Tile/tile_20" />
+      <Asset Guid="1b63bcbd3fcac534dba51d4b542c90c3" ResourceName="Data/Entity/Sprite" />
+      <Asset Guid="20577b70d40a61844b7c7d8e43fcda6b" ResourceName="DataTables/Entity" />
+      <Asset Guid="2531a17e42ddff844a442d00bb01b6ca" ResourceName="Data/Tile/tile_13" />
+      <Asset Guid="2a49fcd7ae0dfb04ea26fbbc7410ddbb" ResourceName="Data/Tile/tile_2" />
+      <Asset Guid="311245e2165eabc4ea5bdfdb075286fc" ResourceName="DataTables/Buff" />
+      <Asset Guid="3b29f0544f09feb49880d42f50f8e63c" ResourceName="Configs/BuildSetttings" />
+      <Asset Guid="3f87cffa3f835c5479ef95a5fb3fa034" ResourceName="Data/Tile/tile_8" />
+      <Asset Guid="407ee42fd03017448b8168b876c6a64d" ResourceName="Configs/BuildInfo" />
+      <Asset Guid="40876898faeef854ca8b6107ce1efd03" ResourceName="Data/Tile/tile_9" />
+      <Asset Guid="41ae0ebb41fc466449e10aeebb85cfa5" ResourceName="Configs/DataTableCodeTemplate" />
+      <Asset Guid="43b8012848b656247b8db28e42843e1d" ResourceName="Data/Tile/tile_19" />
+      <Asset Guid="4668883673252c9488202d69c3f6dd08" ResourceName="DataTables/Buff" />
+      <Asset Guid="48c079c100fd9454386ba5655dfb4de4" ResourceName="Data/Entity/e_4" />
+      <Asset Guid="48edddcb48cef8941a9ebb6943730a2d" ResourceName="Data/Tile/tile_17" />
+      <Asset Guid="49bf6a12418885d4e8f19b70e29862fa" ResourceName="Data/Tile/tile_7" />
+      <Asset Guid="5a1fb1063cffedb43810db725ead780e" ResourceName="Data/Tile/tile_16" />
+      <Asset Guid="5d337cb6ba586cf4f8d0e682db22359b" ResourceName="DataTables/Prop" />
+      <Asset Guid="5eed9a73a1dba4043828f799444773c2" ResourceName="Data/Tile/tile_4" />
+      <Asset Guid="60ee02d64b3e6974c9c918de9e9bdf1c" ResourceName="Data/Map/Items" />
+      <Asset Guid="625b36afc4a46c944bc492457808d6a7" ResourceName="Data/Package/ui" />
+      <Asset Guid="688377f33909b4042af5521c1c40c50a" ResourceName="Data/Tile/tile_11" />
+      <Asset Guid="7067e0c406304014290be83571436ddc" ResourceName="Data/Tile/tile_1" />
+      <Asset Guid="73fb9257fc6ffb84f8767b9bdcb3e7c1" ResourceName="Data/Entity/e_1" />
+      <Asset Guid="798a8b60aaf632d40a115866778e9edd" ResourceName="Data/Item/Anim/selector_idle" />
+      <Asset Guid="7b1e12d8e1de0164db81f473c7e99770" ResourceName="Data/Tile/tile_stone_0" />
+      <Asset Guid="7b3e17355d203374db5fdc9b6bcfcb69" ResourceName="Data/Entity/e_2" />
+      <Asset Guid="7cf75eea330115245bb516e08b05eb61" ResourceName="DataTables/Action" />
+      <Asset Guid="7dd084ff425aefa40a132279314b111b" ResourceName="Configs/ResourceCollection" />
+      <Asset Guid="7fd718946c12d8b4f86e86718e0255b2" ResourceName="Data/Item/attack_cursor" />
+      <Asset Guid="8049e5f413bf92c41a41b54aff1fb943" ResourceName="DataTables/Prop" />
+      <Asset Guid="84b17324d4d8f2d4bb502e8ef7b6adc6" ResourceName="Data/Tile/tile_6" />
+      <Asset Guid="85b23458c83e3c942bc81661c6dbb93a" ResourceName="Data/Item/castle_0" />
+      <Asset Guid="8bdeb9cfaeb171c428db0f79010b3a3e" ResourceName="Data/Tile/tile_12" />
+      <Asset Guid="977bc6b7cc3ad8a48a91ee10ef5055f4" ResourceName="Data/Entity/e_3" />
+      <Asset Guid="9dd188f0836ee104f86504384a386eab" ResourceName="Configs/ResourceEditor" />
+      <Asset Guid="a1e039b390cd11e478ec77cf65a2b97c" ResourceName="Data/Tile/tile_14" />
+      <Asset Guid="ac48291ee0fd43d44b304ed4b9209464" ResourceName="UI/AttackCursorUIForm" />
+      <Asset Guid="ad7e51fadf98260429cb3dbcc14b425d" ResourceName="Data/Map/Map" />
+      <Asset Guid="aff5440dd8121934c802c23bc821db74" ResourceName="Configs/DefaultConfig" />
+      <Asset Guid="b7d4d4f04f4191b4f872c478585616e6" ResourceName="Data/Entity/c_1_1" />
+      <Asset Guid="bc8641460c8caa840a1c396bbfe916d0" ResourceName="Data/Tile/tile_5" />
+      <Asset Guid="c0d4d8ef71b9b12448ab2519828561fc" ResourceName="Configs/Dictionary" />
+      <Asset Guid="c10d6520524459e4c8017a9821de0c6b" ResourceName="Data/Tile/tile_0" />
+      <Asset Guid="c16f21c22718b3c4982b33dee20f1296" ResourceName="Data/Item/move_range" />
+      <Asset Guid="c1effc233753ee8418ce4cbc98c89328" ResourceName="Data/Tile/tile_18" />
+      <Asset Guid="c3539b5fcba83ab4fa5e8b5bfef34b05" ResourceName="Data/Item/selector" />
+      <Asset Guid="c3921aff216b619499bac348e0b2c478" ResourceName="Data/Item/attack_range" />
+      <Asset Guid="c750ad7e0ec1cee40a0a714150ff8153" ResourceName="Data/Tile/tile_10" />
+      <Asset Guid="d6e9de76292c5864bb69858bfb2f6eaa" ResourceName="Data/Package/ui" />
+      <Asset Guid="df16c2ab9cace894e9d97b5756cc93db" ResourceName="Data/Tile/tile_tree_0" />
+      <Asset Guid="e334e1b85755067488aaea79abb63af6" ResourceName="Configs/ResourceBuilder" />
+      <Asset Guid="eb9d497360de9694fa520a556d16bf8a" ResourceName="Data/Tile/tile_15" />
+      <Asset Guid="ebf81ee02aa568444ae14db3a588c9bd" ResourceName="Data/Tile/tile_3" />
+      <Asset Guid="f489602bd32bb2445ac505c09541ef16" ResourceName="Data/Entity/Tile" />
+      <Asset Guid="f688a7f8d7bc4d448a389aae0452afa6" ResourceName="DataTables/Tile" />
+      <Asset Guid="fa4e249cdbdd2ce4bb14e06213a6126a" ResourceName="UI/ActionItemUIForm" />
+    </Assets>
+  </ResourceCollection>
+</UnityGameFramework>

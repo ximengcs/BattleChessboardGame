@@ -1,0 +1,6 @@
+#	Buff配置		
+#	Id		Prop
+#	int		string
+#	配置编号	备注	属性名
+	300001	移动力	MovePower
+	300002	攻击力	AttackPower

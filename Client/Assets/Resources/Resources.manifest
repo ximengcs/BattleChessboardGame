@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 391195737
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui.bytes
+      Dependencies: {}
